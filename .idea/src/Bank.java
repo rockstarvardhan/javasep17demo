@@ -1,4 +1,4 @@
 public class Bank {
-    public String flatno;
+    public String dn;
 
 }
