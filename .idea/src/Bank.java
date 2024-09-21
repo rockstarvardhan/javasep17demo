@@ -1,4 +1,4 @@
 public class Bank {
-    public String ph;
+    public String ad;
 
 }
