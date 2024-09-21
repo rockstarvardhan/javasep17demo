@@ -1,4 +1,4 @@
 public class Bank {
-    public String surname;
+    public String fathername;
 
 }
